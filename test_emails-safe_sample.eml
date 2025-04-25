@@ -1,0 +1,88 @@
+From: newsletter@epicgames.com
+To: "Fortnite Player" <player@example.com>
+Subject: Fortnite Season X Update - New Battle Pass Available!
+Date: Fri, 25 Apr 2025 10:15:22 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--boundary_text_string"
+
+----boundary_text_string
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+FORTNITE SEASON X IS HERE!
+
+Hello Fortnite Player,
+
+Season X has arrived with exciting new changes to the map, awesome Battle Pass rewards, and amazing new gameplay mechanics!
+
+NEW THIS SEASON:
+- Updated map with returning POIs
+- New Mythic weapons including the Scorcher Assault Rifle
+- Redesigned Challenge system
+- Original emotes and character skins
+
+Your previous Battle Pass progress has been recorded and rewards have been distributed to your locker.
+
+Ready to drop back in? Check out the new Battle Pass here: https://www.epicgames.com/fortnite/battle-pass
+
+See you on the Battle Bus!
+
+The Fortnite Team
+Epic Games
+
+© 2025 Epic Games, Inc. All rights reserved.
+Epic Games, Fortnite, and their logos are trademarks or registered trademarks of Epic Games, Inc. in the USA and elsewhere.
+
+Email preferences: https://www.epicgames.com/account/email-preferences
+Privacy Policy: https://www.epicgames.com/privacy
+----boundary_text_string
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Fortnite Season X Update</title>
+</head>
+<body style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;">
+  <div style="background-color: #5e2de9; padding: 20px; text-align: center; color: white;">
+    <h1>FORTNITE SEASON X IS HERE!</h1>
+  </div>
+  
+  <div style="padding: 20px;">
+    <p>Hello Fortnite Player,</p>
+    
+    <p>Season X has arrived with exciting new changes to the map, awesome Battle Pass rewards, and amazing new gameplay mechanics!</p>
+    
+    <h2>NEW THIS SEASON:</h2>
+    <ul>
+      <li>Updated map with returning POIs</li>
+      <li>New Mythic weapons including the Scorcher Assault Rifle</li>
+      <li>Redesigned Challenge system</li>
+      <li>Original emotes and character skins</li>
+    </ul>
+    
+    <p>Your previous Battle Pass progress has been recorded and rewards have been distributed to your locker.</p>
+    
+    <div style="text-align: center; margin: 30px 0;">
+      <a href="https://www.epicgames.com/fortnite/battle-pass" style="background-color: #f9a01b; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold;">CHECK OUT THE NEW BATTLE PASS</a>
+    </div>
+    
+    <p>See you on the Battle Bus!</p>
+    
+    <p>The Fortnite Team<br>Epic Games</p>
+  </div>
+  
+  <div style="background-color: #f4f4f4; padding: 15px; font-size: 12px; color: #666;">
+    <p>© 2025 Epic Games, Inc. All rights reserved.<br>
+    Epic Games, Fortnite, and their logos are trademarks or registered trademarks of Epic Games, Inc. in the USA and elsewhere.</p>
+    
+    <p>
+      <a href="https://www.epicgames.com/account/email-preferences">Email preferences</a> | 
+      <a href="https://www.epicgames.com/privacy">Privacy Policy</a>
+    </p>
+  </div>
+</body>
+</html>
+----boundary_text_string--

@@ -1,0 +1,33 @@
+From: "PayPal Security Team" <security-alert@paypa1-secure-login.com>
+To: "Valued Customer" <customer@example.com>
+Subject: URGENT: Your PayPal Account Has Been Limited
+Date: Fri, 25 Apr 2025 09:32:14 -0500
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Valued PayPal Customer,
+
+We have detected unusual activity on your PayPal account. Your account has been temporarily limited until we can verify your identity.
+
+IMMEDIATE ACTION REQUIRED:
+
+You have (1) day to verify your information before your account is permanently suspended. Please click the secure link below to verify your account details:
+
+http://paypal-account-verify-secure.com/login.php?id=customer123
+
+Please have the following information ready:
+- Your PayPal email and password
+- Credit card information
+- Bank account details
+- Social Security Number
+
+Failure to complete this security verification will result in permanent account suspension.
+
+This is an automated message. Please do not reply.
+
+Regards,
+PayPal Security Team
+http://www.paypal-account-verify-secure.com/
+
+© 2025 PayPal. All rights reserved.
