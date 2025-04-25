@@ -34,10 +34,10 @@ pip install -r requirements.txt
 Run the detector on an email file:
 
 ```bash
-python fortnite_phishing_detector.py
+python detector.py
 ```
 
-By default, it will scan the sample email in `test_emails/phishing_sample.eml`. To scan your own email:
+By default, it will scan the sample email in `test_emails-phishing_sample.eml`. To scan your own email:
 
 1. Save the suspicious email as an .eml file
 2. Edit the `email_file_path` variable in the script to point to your file
