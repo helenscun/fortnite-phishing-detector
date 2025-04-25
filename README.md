@@ -20,7 +20,7 @@ This tool analyzes emails for phishing attempts using the following Fortnite-the
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/fortnite-phishing-detector.git
+git clone https://github.com/helenscun/fortnite-phishing-detector.git
 cd fortnite-phishing-detector
 ```
 
